@@ -1,0 +1,17 @@
+# Fdb version 3
+["xdvipdfmx"] 1589071741 "hate.xdv" "hate.pdf" "hate" 1589071742
+  "hate.xdv" 1589071741 752 35697192b2520da40822f64ca2d66043 "xelatex"
+  (generated)
+  "hate.pdf"
+["xelatex"] 1589071740 "hate.tex" "hate.xdv" "hate" 1589071742
+  "d:/texlive/2019/texmf-dist/tex/latex/base/article.cls" 1578314235 19933 3097d1b31d3c45dc957096f554529032 ""
+  "d:/texlive/2019/texmf-dist/tex/latex/base/size10.clo" 1578314235 8294 6d6e23d5169c0d89d173f6c7e08a005a ""
+  "d:/texlive/2019/texmf-dist/web2c/texmf.cnf" 1578314196 35430 ca24fb44b873d21ac4c63d01600decd4 ""
+  "d:/texlive/2019/texmf-var/web2c/xetex/xelatex.fmt" 1578316641 3750156 4f2bfc259795b5657fdef1403cabfbc7 ""
+  "d:/texlive/2019/texmf.cnf" 1578316424 673 4ae7b2f49cee444c5343a45b5d0f169c ""
+  "hate.aux" 1589071741 8 a94a2480d3289e625eea47cd1b285758 "xelatex"
+  "hate.tex" 1589071737 73 8d0828a99bbfbd0cfa1993414b91eb04 ""
+  (generated)
+  "hate.xdv"
+  "hate.log"
+  "hate.aux"

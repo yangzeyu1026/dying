@@ -1,0 +1,15 @@
+PWD E:/Vp160/problem sets/dying
+INPUT d:/texlive/2019/texmf.cnf
+INPUT d:/texlive/2019/texmf-dist/web2c/texmf.cnf
+INPUT d:/texlive/2019/texmf-var/web2c/xetex/xelatex.fmt
+INPUT hate.tex
+OUTPUT hate.log
+INPUT d:/texlive/2019/texmf-dist/tex/latex/base/article.cls
+INPUT d:/texlive/2019/texmf-dist/tex/latex/base/article.cls
+INPUT d:/texlive/2019/texmf-dist/tex/latex/base/size10.clo
+INPUT d:/texlive/2019/texmf-dist/tex/latex/base/size10.clo
+INPUT hate.aux
+INPUT hate.aux
+OUTPUT hate.aux
+OUTPUT hate.xdv
+INPUT hate.aux
